@@ -14,8 +14,8 @@
         "guzzlehttp/guzzle": "6.*"
     },
     "autoload": {
-        "psr-0": {
-            "JilfondYandexSpeech": "src/"
+        "psr-4": {
+            "Jilfond\\YandexSpeech\\": "src/"
         }
     }
 }
