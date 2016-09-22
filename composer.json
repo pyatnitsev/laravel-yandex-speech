@@ -1,10 +1,10 @@
 {
-    "name": "jilfond/yandex-speech",
+    "name": "pyatnitsev/yandex-speech",
     "description": "This is library for Laravel, that implements Yandex SpeechKit Cloud",
     "authors": [
         {
-            "name": "Jilfond",
-            "email": "php8@jilfond.ru"
+            "name": "Danil Pyatnitsev",
+            "email": "danil@pyatnitsev.ru"
         }
     ],
     "minimum-stability": "stable",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jilfond\\YandexSpeech\\": "src/"
+            "Pyatnitsev\\YandexSpeech\\": "src/"
         }
     }
 }

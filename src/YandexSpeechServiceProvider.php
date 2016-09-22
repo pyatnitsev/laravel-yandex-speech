@@ -1,6 +1,6 @@
 <?php
 
-namespace Jilfond\YandexSpeech;
+namespace Pyatnitsev\YandexSpeech;
 
 use Illuminate\Support\ServiceProvider;
 
