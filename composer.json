@@ -1,0 +1,17 @@
+{
+    "name": "jilfond/yandex-speech",
+    "description": "This is library for Laravel, that implements Yandex SpeechKit Cloud",
+    "authors": [
+        {
+            "name": "Jilfond",
+            "email": "php8@jilfond.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.1.*",
+        "symfony/dom-crawler": "3.1.*",
+        "guzzlehttp/guzzle": "6.*"
+    }
+}
