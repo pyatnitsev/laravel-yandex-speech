@@ -1,6 +1,7 @@
 {
     "name": "pyatnitsev/yandex-speech",
     "description": "This is library for Laravel, that implements Yandex SpeechKit Cloud",
+    "license": "MIT",
     "authors": [
         {
             "name": "Danil Pyatnitsev",
